@@ -1,0 +1,9 @@
+Building Moneta
+
+See doc/readme-qt.rst for instructions on building Moneta-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Moneta.
+
+See doc/build-*.txt for instructions on building monetad,
+the intended-for-services, no-graphical-interface, reference
+implementation of Moneta.
