@@ -1449,7 +1449,7 @@ Address: %4
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
         <source>Enter a Moneta address (e.g. MG6fBGYFkDmMsWtLZVhDUGbm37dfZB2fV2)</source>
-        <translation>Введите Moneta-адрес (например 1LA5FtQhnnWnkK6zjFfutR7Stiit4wKd63)</translation>
+        <translation>Введите Moneta-адрес (например MG6fBGYFkDmMsWtLZVhDUGbm37dfZB2fV2)</translation>
     </message>
 </context>
 <context>
