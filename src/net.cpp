@@ -1173,7 +1173,12 @@ void MapPort(bool)
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 static const char *strMainNetDNSSeed[][2] = {
-    {"monetatools.com", "54.232.218.200"},
+    
+    {"seed1.moneta.io", "95.85.55.13"},
+    {"seed2.moneta.io", "188.166.45.174"},
+    {"seed3.moneta.io", "178.62.195.161"},
+    {"seed4.moneta.io", "188.166.92.128"},
+    {"seed5.moneta.io", "128.199.38.11"},
     {NULL, NULL}
 };
 
@@ -1230,6 +1235,7 @@ void ThreadDNSAddressSeed()
 unsigned int pnSeed[] =
 {
 //    0x4423ff60, 0xfa57ec6d, 0xcde2fb65, 0x11093257, 0x4748cd5b, 0x720c03dd, 0x8c7b0905, 0xba8b2e48
+      0xBCA62DAE, 0xBCA65C80, 0x5F55370D, 0xB23EC3A1, 0x80C7260B, 0x34590359  
 };
 
 void DumpAddresses()
