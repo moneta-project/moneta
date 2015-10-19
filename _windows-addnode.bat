@@ -7,7 +7,7 @@ echo.#rpcpassword=yourSECUREpassword
 echo.server=1
 echo.daemon=1
 echo.listen=1
-echo.setgenerate=true 1
+echo.setgenerate=false 1
 echo.gen=1
 echo.#
 echo.addnode=95.85.55.13
